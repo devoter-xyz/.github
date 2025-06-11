@@ -7,7 +7,7 @@ DEVoter is an open-source voting platform that bridges web3 repository maintaine
 |------------|-------------|---------|
 | **devoter-app** | Main voting platform | 🚧 In Development |
 | **devoter-landing** | Marketing website | 🚧 In Development |
-| **devoter-contracts** | Smart contracts | 📋 Planned |
+| **devoter-contracts** | Smart contracts | 🚧 In Development |
 | **devoter-docs** | Documentation site | 📋 Planned |
 
 
